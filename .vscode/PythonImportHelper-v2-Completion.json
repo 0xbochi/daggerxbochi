@@ -1,0 +1,28 @@
+[
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "lab03.app",
+        "description": "lab03.app",
+        "peekOfCode": "def home():\n    return \"Dagger x Bochi = ♥\"\nif __name__ == \"__main__\":\n    app.run(host='0.0.0.0', port=5000)",
+        "detail": "lab03.app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "lab03.app",
+        "description": "lab03.app",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/')\ndef home():\n    return \"Dagger x Bochi = ♥\"\nif __name__ == \"__main__\":\n    app.run(host='0.0.0.0', port=5000)",
+        "detail": "lab03.app",
+        "documentation": {}
+    }
+]
