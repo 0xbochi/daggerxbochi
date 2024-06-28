@@ -2,11 +2,11 @@
 
 ## Objective
 
-- Understand Dagger fundamentals
-- Learn how to use the DaggerCLI
-- Learn what's a Dagger module
-- Run your first dagger command
-- Discover the Dagger API & SDK
+- Understand Dagger fundamentals.
+- Learn how to use the DaggerCLI.
+- Learn what's a Dagger module.
+- Run your first dagger command.
+- Discover the Dagger API & SDK.
 
 ## Prerequisites
 
@@ -14,7 +14,7 @@
 
 ## A. First steps with Dagger
 
-1. Verify you have dagger installed on your host.
+ 1. Verify you have dagger installed on your host.
 
 ```shell
 dagger version
